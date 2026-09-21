@@ -1,5 +1,8 @@
  Employee Workforce Distribution Dashboard
 
+## Overview
+This project is a dedicated **Business Intelligence and UI design showcase**, focusing heavily on visual hierarchy, custom styling, and clean proportional scaling rather than data extraction pipelines.
+ 
 An interactive Tableau visualization analyzing the distribution of 5,000 employees across major industries and work locations (Remote, Hybrid, Onsite).
 
 # Overview
